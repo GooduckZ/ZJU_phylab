@@ -1,6 +1,10 @@
 # ZJU_phylab
 浙江大学 普通物理学实验 I 作图代码
 
+部分代码借鉴了 [TonyCrane 的代码](https://github.com/TonyCrane/ZJU-General-Physics-Experiment-I)
+
+**请勿直接使用代码中的实验数据！**
+
 - [x] 抛射体运动的照相法研究
 - [x] 非平衡电桥
 - [x] 用霍尔法测直流圆线圈与亥姆霍兹线圈磁场
