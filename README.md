@@ -3,6 +3,8 @@
 
 部分代码学习了 [TonyCrane](https://github.com/TonyCrane/ZJU-General-Physics-Experiment-I)
 
+顺便宣传下[我的相关笔记](https://gooduckz.github.io/note/python/matplotlib/)
+
 **请勿直接使用代码中的实验数据**
 
 - [x] 抛射体运动的照相法研究
