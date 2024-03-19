@@ -1,11 +1,8 @@
-# ZJU_phylab
-浙江大学 普通物理学实验 I 作图代码
+# 浙江大学 普通物理学实验 I 作图代码
 
-部分代码学习了 [TonyCrane](https://github.com/TonyCrane/ZJU-General-Physics-Experiment-I)，快去 Follow 他！
+使用 matplotlib 库绘图，**请勿直接使用代码中的实验数据！**
 
-顺便宣传下[我的相关笔记](https://gooduckz.github.io/note/python/matplotlib/)~
-
-**请勿直接使用代码中的实验数据**
+实验列表如下：
 
 - [x] 抛射体运动的照相法研究
 - [x] 非平衡电桥
